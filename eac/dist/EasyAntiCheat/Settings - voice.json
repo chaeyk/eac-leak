@@ -1,0 +1,9 @@
+{
+	"title"											: "Chat Client",
+	"executable"									: "chat-client.exe",
+	"productid"										: "68c34eac386842d580e0c6aca47ffc1b",
+	"sandboxid"										: "f1f0c6067b5d4b39a564da438f3cfc64",
+	"deploymentid"									: "8a51305f324e43d498e255f433ebed1e",
+	"requested_splash"								: "EasyAntiCheat\\Splash.png",
+	"wait_for_game_process_exit"					: "false"
+}
