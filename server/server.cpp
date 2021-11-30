@@ -55,7 +55,7 @@ int main()
 
     SetConsoleCtrlHandler(CtrlHandler, TRUE);
 
-    for (int i = 1; i < 50; i++)
+    for (int i = 1; i < 5000; i++)
     {
         eos.RegisterClient(i);
         Sleep(50);
